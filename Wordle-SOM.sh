@@ -5,7 +5,8 @@ echo "Fecheando la palabra del día..."
 echo "----------------------------"
 echo "Este Script es de Izan Patiño Martínez"
 echo "Nombre del GitHub -> izanpm4"
-
+echo "---"
+echo " "
 # === URL OFICIAL DE LA PALABRA ===
 URL_PALABRA="https://raw.githubusercontent.com/izanpm4/Wordle-SOM/refs/heads/main/srct?nocache=$(date +%s)"
 wget --no-cache ...
